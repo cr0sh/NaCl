@@ -1,0 +1,9 @@
+[submodule "NaOH"]
+	path = NaOH
+	url = https://github.com/scalar77/NaOH.git
+[submodule "HCl"]
+	path = HCl
+	url = https://github.com/scalar77/HCl.git
+[submodule "dependencies/H2O"]
+	path = dependencies/H2O
+	url = https://github.com/scalar77/NaOH.git
